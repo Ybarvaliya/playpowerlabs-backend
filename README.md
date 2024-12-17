@@ -5,7 +5,8 @@ Database: MongoDB
 AI: Groq
 
 ## Setup:
-- unzip file
+- fork or download repo
+- open it in the Code editor 
 - open terminal and run -> npm i
 - create .env file and make 2 variables: GROQ_API_KEY, JWT_SECRET(Add your own data) 
 - nodemon server.js 
